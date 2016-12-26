@@ -24,7 +24,7 @@ public class RentalsDemo {
 
         String rentResult = customer.statement();
         System.out.println(rentResult);
-        String htmlResult = customer.htmlStatement();
-        System.out.println(htmlResult);
+        //String htmlResult = customer.htmlStatement();
+        //System.out.println(htmlResult);
     }
 }
